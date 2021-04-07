@@ -1,0 +1,2 @@
+# mathematical_statistics_inagaki
+数学シリーズ・数理統計学（稲垣宣生著）のpythonによる演習問題解答
