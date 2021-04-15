@@ -5,3 +5,4 @@
 |節|扱う問題|
 |---|---|
 | [9節](https://github.com/tomotomonakanaka/mathematical_statistics_inagaki/blob/main/Section9/Problem9.ipynb) | 9.1, 9.2, 9.3, 9.4, 9.5, 9.6, 9.7, 9.8 |
+| [10節](https://github.com/tomotomonakanaka/mathematical_statistics_inagaki/blob/main/Section10/Problem10.ipynb) | 10.1, 10.2, 10.3, 10.4, 10.5, 10.6, 10.7, 10.11, 10.12, 10.13 |
